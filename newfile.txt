@@ -1,1 +1,1 @@
-this is just a file to practice
+this line is also changed in new-branch2
