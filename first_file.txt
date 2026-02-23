@@ -1,2 +1,2 @@
 example text
-add in align 
+add in line
