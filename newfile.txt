@@ -2,5 +2,4 @@ this line is also changed in new-branch2
 just for practice
 adding a line 
 adding this line
-adding stuff
-adding file
+
