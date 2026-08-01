@@ -1,6 +1,10 @@
 adding stuff
 example text
+<<<<<<< HEAD
 add in line
 adding a line 
 adding a line
 adding a line
+=======
+modifying code
+>>>>>>> 9a1c657199adb04a0d5679d5b249465ece8f52d4
